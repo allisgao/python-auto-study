@@ -1,43 +1,26 @@
 #coding = utf-8
 #定义函数
-'''
-#一个成功的案例
-import sys
 def collatz(number):
-    print(number)
     if number == 1:
-        sys.exit()
-    elif number % 2 == 1:
-        t = number * 3 + 1
-        collatz(t)
+        return number
+    elif number % 2 ==0:
+        return number // 2
     else:
-        t = number // 2
-        collatz(t)
+        return 3 * number + 1
 
-
-if __name__ == '__main__':
-    n = input('Enter number: ')
-    try:
-        n = int(n)
-        collatz(n)
-    except ValueError as verror:
-        print('ValueError: You need input digital.')
-'''
-
-'''
-
-
-'''
-
-
-
-def collatz(number):
-    result = int(number) % 2
-    if result == 0:
-        print(str(int(number//2)))
-    else:
-        print(str( 3 * int(number) + 1))
-## 开始调用
+#开始调用
 print('Enter number:')
-num = int(input())
+''''''
+try:
+    num = int(input())
+except ValueError:
+    print('Please input an integer.')
+    exit()
+
+while True:
+    if num != 1:
+        num = collatz(num)
+    else:
+        break
+    print(str(num))
 
