@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="210106a8-f847-44f4-bd37-59efe3b9ecba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.0_helloFunc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.1_helloFunc2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py" />
+    <list default="true" id="210106a8-f847-44f4-bd37-59efe3b9ecba" name="Default" comment="Part 2 is finished">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.11.1_collatz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.5.1_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.5.2_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.5.3_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.5.4_sameName.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.6_1_sameName2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.6_2_sameName3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.6_3_sameName4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.7_1_zeroDivide.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.7_2_zeroDivide2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Section1_basic/Part3/3.8_1_guessTheNumber.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,32 +27,12 @@
     <favorites_list name="python-auto_study" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="3.1_helloFunc2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.1_helloFunc2.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="3.11.1_collatz.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.11.1_collatz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3.2_magic8Ball.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3,4_practice.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="198">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,12 +80,23 @@
         <option value="$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py" />
         <option value="$PROJECT_DIR$/Section1_basic/Part3/3,4_practife.py" />
         <option value="$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.5.1_1.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.5.2_1.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.5.3_1.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.5.4_sameName.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.6_sameName.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.6_2.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.6_3_sameName4.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.7_1_zeroDivide.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.7.1_zeroDivide2.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.7_2_zeroDivide2.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.8_1_guessTheNumber.py" />
+        <option value="$PROJECT_DIR$/Section1_basic/Part3/3.11.1_collatz.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="882" />
-    <option name="y" value="3" />
     <option name="width" value="1045" />
     <option name="height" value="901" />
   </component>
@@ -183,24 +181,6 @@
               <option name="myItemId" value="python-auto" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Section1_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Part2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-auto_study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-auto" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -238,8 +218,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3,4_practice">
-    <configuration default="false" name="helloFunc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3.11.1_collatz">
+    <configuration default="false" name="3.6_3_sameName4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -251,13 +231,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-auto_study" />
-      <option name="SCRIPT_NAME" value="E:\MyCodes\python\python-auto\Section1_basic\Part3\3.0_helloFunc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.6_3_sameName4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.1_helloFunc2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.7_1_zeroDivide" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -269,13 +249,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-auto_study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.1_helloFunc2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.7_1_zeroDivide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="3.2_magic8Ball" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.7_2_zeroDivide2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -287,31 +267,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-auto_study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.7_2_zeroDivide2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="2.8_import_random" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section1_basic/Part2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-auto_study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part2/2.8_import_random.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="3,4_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="3.8_1_guessTheNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -323,7 +285,25 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-auto_study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.8_1_guessTheNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="3.11.1_collatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section1_basic/Part3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-auto_study" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section1_basic/Part3/3.11.1_collatz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,19 +374,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.helloFunc" />
-      <item index="1" class="java.lang.String" itemvalue="Python.3.1_helloFunc2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.3.2_magic8Ball" />
-      <item index="3" class="java.lang.String" itemvalue="Python.2.8_import_random" />
-      <item index="4" class="java.lang.String" itemvalue="Python.3,4_practice" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3.6_3_sameName4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3.7_1_zeroDivide" />
+      <item index="2" class="java.lang.String" itemvalue="Python.3.7_2_zeroDivide2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.3.8_1_guessTheNumber" />
+      <item index="4" class="java.lang.String" itemvalue="Python.3.11.1_collatz" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.3,4_practice" />
-        <item index="1" class="java.lang.String" itemvalue="Python.2.8_import_random" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3.2_magic8Ball" />
-        <item index="3" class="java.lang.String" itemvalue="Python.3.1_helloFunc2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.helloFunc" />
+        <item index="0" class="java.lang.String" itemvalue="Python.3.11.1_collatz" />
+        <item index="1" class="java.lang.String" itemvalue="Python.3.8_1_guessTheNumber" />
+        <item index="2" class="java.lang.String" itemvalue="Python.3.7_2_zeroDivide2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3.7_1_zeroDivide" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3.6_3_sameName4" />
       </list>
     </recent_temporary>
   </component>
@@ -472,26 +452,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="882" y="3" width="1045" height="901" extended-state="0" />
-    <editor active="true" />
+    <frame x="882" y="0" width="1045" height="901" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30456853" sideWeight="0.49196786" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27208123" sideWeight="0.49196786" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.51979697" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.49238577" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.48020303" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3172952" sideWeight="0.48020303" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24974619" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884097" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2492971" sideWeight="0.50803214" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892185" sideWeight="0.4964467" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979194" sideWeight="0.4964467" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -561,11 +540,35 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.1_helloFunc2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/section0_example/SecretPasswordFile.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -640,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -656,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -664,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,14 +693,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.2_magic8Ball.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -711,7 +707,95 @@
     <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3,4_practice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.5.1_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.5.2_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.5.3_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.5.4_sameName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.6_1_sameName2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.6_2_sameName3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.6_3_sameName4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.7_2_zeroDivide2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.7_1_zeroDivide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" lean-forward="false" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.8_1_guessTheNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Section1_basic/Part3/3.11.1_collatz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>
