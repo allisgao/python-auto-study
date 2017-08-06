@@ -1,4 +1,5 @@
 #coding = utf-8
+##另一个版本的参见Part4_list--4.5
 import random
 def getAnswer(answerNumber):
     if answerNumber == 1:
