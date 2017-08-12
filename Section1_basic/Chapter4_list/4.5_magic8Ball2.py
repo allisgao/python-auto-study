@@ -1,5 +1,5 @@
 #coding = utf-8
-##上一个magic 8 ball 在：Part3--3.2
+##上一个magic 8 ball 在：Chapter3--3.2
 import random
 messages = [
     'It is certain',
