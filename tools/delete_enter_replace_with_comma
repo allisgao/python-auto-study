@@ -1,0 +1,21 @@
+# coding = utf-8
+import  pyperclip
+myContent = pyperclip.paste()
+# print(myContent)
+# 转化为列表
+patchID = myContent.split('\n')
+# print(patchID)
+# ['14374587\r', '8300196\r', '17931904\r', '17932167\r', '18936791\r', '19273341\r', '19486870\r', '19559960\r', '19798215\r', '20986782\r', '21482112\r', '21565052\r', '22284589\r', '8919491\r', '9239089']
+text1 = ''.join(patchID)
+print(text1)
+text2 = text1.split('\r')
+# print(text2)
+# ['14614795', '14825718', '17191279', '8919489', '9593176', '6640838', '14825718', '16784403', '7121788']
+pidStr = ','.join(text2)
+#print(pidStr)
+
+
+
+# TODO: Copy to clipboard
+#pyperclip.copy(CONTENT)
+pyperclip.copy(pidStr)
