@@ -1,0 +1,519 @@
+1506570466033	geckodriver	INFO	geckodriver 0.19.0
+1506570466056	geckodriver	INFO	Listening on 127.0.0.1:5119
+1506570468101	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.VbNpL0vnxjD0"
+1506570468489	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506570469087	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506570471322	Marionette	INFO	Listening on port 5125
+1506570471348	Marionette	INFO	Listening on port 5125
+1506570471723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506570471767	Marionette	DEBUG	loaded listener.js
+1506570959580	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506570959591	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506570977305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=unknownProtocolFound&u=f%3A%5CResource%5COneDrive%5C%25E6%2596%2587%25E6%25A1%25A3%5C%25E5%25B0%258F%25E4%25B9%25A6%25E5%258C%25A0%5CProgremmer%5Cpython_study.html&c=&f=regular&d=Firefox%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80%E8%BF%99%E4%B8%AA%E5%9C%B0%E5%9D%80%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%8D%8F%E8%AE%AE%20%28f%29%20%E6%9C%AA%E4%B8%8E%E4%BB%BB%E4%BD%95%E7%A8%8B%E5%BA%8F%E5%85%B3%E8%81%94%EF%BC%8C%E6%88%96%E8%80%85%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9C%A8%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%9B%E8%A1%8C%E3%80%82"
+1506570977780	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=unknownProtocolFound&u=f%3A%5CResource%5COneDrive%5C%25E6%2596%2587%25E6%25A1%25A3%5C%25E5%25B0%258F%25E4%25B9%25A6%25E5%258C%25A0%5CProgremmer%5Cpython_study.html&c=&f=regular&d=Firefox%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80%E8%BF%99%E4%B8%AA%E5%9C%B0%E5%9D%80%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%8D%8F%E8%AE%AE%20%28f%29%20%E6%9C%AA%E4%B8%8E%E4%BB%BB%E4%BD%95%E7%A8%8B%E5%BA%8F%E5%85%B3%E8%81%94%EF%BC%8C%E6%88%96%E8%80%85%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9C%A8%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%9B%E8%A1%8C%E3%80%82"
+1506570977780	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=unknownProtocolFound&u=f%3A%5CResource%5COneDrive%5C%25E6%2596%2587%25E6%25A1%25A3%5C%25E5%25B0%258F%25E4%25B9%25A6%25E5%258C%25A0%5CProgremmer%5Cpython_study.html&c=&f=regular&d=Firefox%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%A6%82%E4%BD%95%E6%89%93%E5%BC%80%E8%BF%99%E4%B8%AA%E5%9C%B0%E5%9D%80%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%8D%8F%E8%AE%AE%20%28f%29%20%E6%9C%AA%E4%B8%8E%E4%BB%BB%E4%BD%95%E7%A8%8B%E5%BA%8F%E5%85%B3%E8%81%94%EF%BC%8C%E6%88%96%E8%80%85%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9C%A8%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%9B%E8%A1%8C%E3%80%82"
+1506570978403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1506570978624	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1506571006914	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1506571007583	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1506571007585	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://www.sucheasy.com/, line 394: SyntaxError: missing ) after argument list
+1506571009378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.sucheasy.com/"
+1506571010047	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.sucheasy.com/"
+1506571013497	Marionette	DEBUG	loaded listener.js
+1506571024195	Marionette	DEBUG	loaded listener.js
+1506571060697	Marionette	DEBUG	loaded listener.js
+1506571068835	Marionette	DEBUG	loaded listener.js
+1506571085146	Marionette	DEBUG	loaded listener.js
+JavaScript error: http://www.sucheasy.com/message/, line 367: SyntaxError: missing ) after argument list
+JavaScript error: http://www.sucheasy.com/freehost.html, line 392: SyntaxError: missing ) after argument list
+JavaScript error: http://www.sucheasy.com/article/c4.html, line 361: SyntaxError: missing ) after argument list
+JavaScript error: http://www.sucheasy.com/article/c8.html, line 371: SyntaxError: missing ) after argument list
+JavaScript error: http://www.sucheasy.com/index.html, line 394: SyntaxError: missing ) after argument list
+1506571207422	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.sucheasy.com/index.html"
+1506571208051	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.sucheasy.com/index.html"
+1506571208052	Marionette	DEBUG	Received DOM event "unload" for "http://www.sucheasy.com/index.html"
+1506571208833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1506571209849	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506571209861	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506571210099	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967328"
+1506571210359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f21619224a0031e&origin=http%3A%2F%2Finventwithpython.com"
+1506571210361	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f21619224a0031e&origin=http%3A%2F%2Finventwithpython.com"
+1506571210775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f21619224a0031e&origin=http%3A%2F%2Finventwithpython.com"
+1506571210778	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f21619224a0031e&origin=http%3A%2F%2Finventwithpython.com"
+1506571210852	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506571211403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://platform.twitter.com/widgets/tweet_button.534c17036beb62f94dbf2b30b59dc118.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1506571210847&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1506571211405	Marionette	DEBUG	Received DOM event "pageshow" for "http://platform.twitter.com/widgets/tweet_button.534c17036beb62f94dbf2b30b59dc118.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1506571210847&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1506571211425	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506571211434	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506580304064	Marionette	DEBUG	loaded listener.js
+1506580341349	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8100] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506582192434	Marionette	DEBUG	loaded listener.js
+1506582194857	Marionette	DEBUG	loaded listener.js
+1506582267873	Marionette	DEBUG	loaded listener.js
+[Parent 11752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7832] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506649177339	Marionette	DEBUG	loaded listener.js
+[Parent 11752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 12688] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506649817549	geckodriver	INFO	geckodriver 0.19.0
+1506649817566	geckodriver	INFO	Listening on 127.0.0.1:6563
+1506649819615	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.K9qsgekxX5kN"
+1506649819881	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506649820379	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+[Parent 1192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506649822225	Marionette	INFO	Listening on port 6570
+1506649822256	Marionette	INFO	Listening on port 6570
+1506649822760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506649822802	Marionette	DEBUG	loaded listener.js
+1506649842144	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506649842719	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506649842719	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506649843196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/"
+1506649844152	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506649844160	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506649844425	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1506649844680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f239f17bb53ec34&origin=http%3A%2F%2Finventwithpython.com"
+1506649844682	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f239f17bb53ec34&origin=http%3A%2F%2Finventwithpython.com"
+1506649845084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f239f17bb53ec34&origin=http%3A%2F%2Finventwithpython.com"
+1506649845087	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/5oivrH7Newv.js?version=42#channel=f239f17bb53ec34&origin=http%3A%2F%2Finventwithpython.com"
+1506649845210	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506649845762	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://platform.twitter.com/widgets/tweet_button.534c17036beb62f94dbf2b30b59dc118.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1506649845206&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1506649845764	Marionette	DEBUG	Received DOM event "pageshow" for "http://platform.twitter.com/widgets/tweet_button.534c17036beb62f94dbf2b30b59dc118.en.html#dnt=false&id=twitter-widget-0&lang=en&original_referer=http%3A%2F%2Finventwithpython.com%2F&size=m&text=Learn%20to%20code%20by%20making%20games%20and%20hacking%20ciphers!%20Free%20books%20at&time=1506649845206&type=share&url=http%3A%2F%2FInventWithPython.com&via=AlSweigart"
+1506649845784	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506649845796	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/"
+1506649981469	Marionette	DEBUG	Received DOM event "beforeunload" for "http://inventwithpython.com/"
+1506649981484	Marionette	DEBUG	Received DOM event "pagehide" for "http://inventwithpython.com/"
+1506649981484	Marionette	DEBUG	Received DOM event "unload" for "http://inventwithpython.com/"
+1506649981495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967316"
+1506649981495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1506649981496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967326"
+1506649981496	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967322"
+1506649981561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967332"
+1506649981561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967335"
+1506649981561	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967340"
+1506649981562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967343"
+1506649981646	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://inventwithpython.com/chapters/"
+1506649981662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967347"
+1506649982415	Marionette	DEBUG	Received DOM event "pageshow" for "http://inventwithpython.com/chapters/"
+1506650053203	Marionette	DEBUG	Received DOM event "beforeunload" for "http://inventwithpython.com/chapters/"
+1506650053886	Marionette	DEBUG	Received DOM event "pagehide" for "http://inventwithpython.com/chapters/"
+1506650053886	Marionette	DEBUG	Received DOM event "unload" for "http://inventwithpython.com/chapters/"
+1506650053970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1506650054027	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967352"
+1506650054028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967354"
+1506650054028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967349"
+1506650054028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967358"
+1506650059811	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+[Parent 1192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506650167193	Marionette	DEBUG	Received DOM event "beforeunload" for "http://inventwithpython.com/chapters/"
+1506650188289	Marionette	DEBUG	Received DOM event "beforeunload" for "http://inventwithpython.com/chapters/"
+1506650188291	Marionette	DEBUG	Received DOM event "pagehide" for "http://inventwithpython.com/chapters/"
+1506650188291	Marionette	DEBUG	Received DOM event "unload" for "http://inventwithpython.com/chapters/"
+1506650188319	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netTimeout&u=http%3A//gmail.com/&c=UTF-8&f=regular&d=gmail.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+1506650358782	Marionette	DEBUG	Received DOM event "beforeunload" for "about:neterror?e=netTimeout&u=http%3A//gmail.com/&c=UTF-8&f=regular&d=gmail.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+1506650358892	Marionette	DEBUG	Received DOM event "pagehide" for "about:neterror?e=netTimeout&u=http%3A//gmail.com/&c=UTF-8&f=regular&d=gmail.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+1506650358892	Marionette	DEBUG	Received DOM event "unload" for "about:neterror?e=netTimeout&u=http%3A//gmail.com/&c=UTF-8&f=regular&d=gmail.com%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+1506650359117	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506650359122	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506650359128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506650359131	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506650361229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506650361230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506650361232	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506650361408	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506650397646	Marionette	DEBUG	loaded listener.js
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 147 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 148 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 149 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 150 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 151 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 152 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 153 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 154 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 155 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 156 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 157 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 158 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 159 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 160 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 161 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 162 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 163 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 164 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 165 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 166 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 167 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 168 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 169 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 170 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 171 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 172 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 173 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 174 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 175 is invalid -- plural rule #1;
+
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 176 is invalid -- plural rule #1;
+
+[GPU 15868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 15868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506652360622	geckodriver	INFO	geckodriver 0.19.0
+1506652360638	geckodriver	INFO	Listening on 127.0.0.1:6805
+1506652362700	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.ZKFWkKDKmtJm"
+1506652362980	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506652363477	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506652365449	Marionette	INFO	Listening on port 6812
+1506652365476	Marionette	INFO	Listening on port 6812
+1506652365820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506652365871	Marionette	DEBUG	loaded listener.js
+1506652369448	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506652370736	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506652370737	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506652370766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.sina.com.cn/"
+1506652370778	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.sina.com.cn/"
+1506652371396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.sina.com.cn/"
+1506652371515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sbeacon.sina.com.cn/ckctl.html"
+1506652371517	Marionette	DEBUG	Received DOM event "pageshow" for "https://sbeacon.sina.com.cn/ckctl.html"
+1506652372575	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.sina.com.cn/"
+1506653444341	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mail.sina.com.cn/?err=50103#"
+1506653444527	Marionette	DEBUG	Received DOM event "pagehide" for "https://mail.sina.com.cn/?err=50103#"
+1506653444527	Marionette	DEBUG	Received DOM event "unload" for "https://mail.sina.com.cn/?err=50103#"
+1506653444681	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1506653444682	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1506653444869	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506653444873	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506653444874	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506653444876	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506653445687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506653445689	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mail.163.com/"
+1506653445693	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506653445885	Marionette	DEBUG	Received DOM event "pageshow" for "http://mail.163.com/"
+1506653833604	Marionette	DEBUG	loaded listener.js
+console.log: plural-form.js: Index #1 of '再显示一个节点；显示全部 #1 个节点' for value 3 is invalid -- plural rule #1;
+
+1506654409160	Marionette	DEBUG	loaded listener.js
+1506654427373	Marionette	DEBUG	loaded listener.js
+1506654547632	Marionette	DEBUG	Received DOM event "beforeunload" for "http://mail.163.com/"
+1506654549113	Marionette	DEBUG	Received DOM event "pagehide" for "http://mail.163.com/"
+1506654549114	Marionette	DEBUG	Received DOM event "unload" for "http://mail.163.com/"
+1506654549157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.sina.com.cn/"
+1506654549168	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.sina.com.cn/"
+1506654549200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1506654549200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1506654549201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1506654549201	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1506654549449	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sbeacon.sina.com.cn/ckctl.html"
+1506654549451	Marionette	DEBUG	Received DOM event "pageshow" for "https://sbeacon.sina.com.cn/ckctl.html"
+1506654549688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mail.sina.com.cn/"
+1506654550287	Marionette	DEBUG	Received DOM event "pageshow" for "https://mail.sina.com.cn/"
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode390
+1506655677524	Marionette	DEBUG	Received DOM event "hashchange" for "https://mail.sina.com.cn/#"
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 413: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 413: TypeError: quads is undefined
+console.error: 
+  Message: TypeError: can't access dead object
+  Stack:
+    getLayout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:768:9
+handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1082:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+
+getLayout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:768:9
+handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1082:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+console.error: 
+  Protocol error (unknownError): can't access dead object
+console.error: 
+  Message: TypeError: can't access dead object
+  Stack:
+    getLayout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:768:9
+handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1082:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+
+getLayout@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/styles.js:768:9
+handler@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/protocol.js:1082:19
+onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1799:15
+receiveMessage@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/transport/transport.js:761:7
+console.error: 
+  Protocol error (unknownError): can't access dead object
+[GPU 5308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1656, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1656"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1656:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1656, column: 0
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13116] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5160] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506656027880	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5308] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506668026928	geckodriver::marionette	ERROR	Failed to kill browser process
+1506668054859	geckodriver	INFO	geckodriver 0.19.0
+1506668054879	geckodriver	INFO	Listening on 127.0.0.1:6300
+1506668056949	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.GgxwrtUR5M13"
+1506668057418	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506668058130	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/ExtensionsUI.jsm, line 50: TypeError: RecentWindow.getMostRecentBrowserWindow(...) is null
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506668060688	Marionette	INFO	Listening on port 6306
+1506668060793	Marionette	INFO	Listening on port 6306
+1506668061075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506668061128	Marionette	DEBUG	loaded listener.js
+1506668067604	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506668068111	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506668068111	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506668069017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://kyfw.12306.cn/otn/login/init"
+1506668069020	Marionette	DEBUG	Received DOM event "pageshow" for "https://kyfw.12306.cn/otn/login/init"
+1506668069224	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://kyfw.12306.cn/otn/login/init"
+1506668069432	Marionette	DEBUG	Received DOM event "pageshow" for "https://kyfw.12306.cn/otn/login/init"
+[GPU 7952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+Corrupt JPEG data: 16 extraneous bytes before marker 0xd9
+Corrupt JPEG data: 13 extraneous bytes before marker 0xd9
+[Child 14404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 7952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506672506092	geckodriver	INFO	geckodriver 0.19.0
+1506672506108	geckodriver	INFO	Listening on 127.0.0.1:7486
+1506672508162	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.PEzhYOXPzvHC"
+1506672508536	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506672509034	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11916] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506672511007	Marionette	INFO	Listening on port 7492
+1506672511044	Marionette	INFO	Listening on port 7492
+1506672511283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506672511326	Marionette	DEBUG	loaded listener.js
+1506672536840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506672537340	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506672537340	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506672537881	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nostarch.com/"
+1506672541484	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cDovL25vc3RhcmNoLmNvbTo4MA..&hl=zh-CN&v=r20170925162623&size=normal&cb=j7zrau20z554"
+1506672541798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1506672541973	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cDovL25vc3RhcmNoLmNvbTo4MA..&hl=zh-CN&v=r20170925162623&size=normal&cb=j7zrau20z554"
+1506672542031	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#pgmo1xfn33rx"
+1506672542033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#pgmo1xfn33rx"
+1506672542035	Marionette	DEBUG	Received DOM event "pageshow" for "http://nostarch.com/"
+1506672555823	Marionette	DEBUG	loaded listener.js
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9372] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1506672886224	geckodriver	INFO	geckodriver 0.19.0
+1506672886241	geckodriver	INFO	Listening on 127.0.0.1:7685
+1506672888299	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.UCl3utfxOhzt"
+1506672888568	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1506672889087	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506672891140	Marionette	INFO	Listening on port 7691
+1506672891165	Marionette	INFO	Listening on port 7691
+1506672891435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506672891483	Marionette	DEBUG	loaded listener.js
+1506672916950	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1506672917418	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1506672917418	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1506672917870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://nostarch.com/"
+1506672921505	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cDovL25vc3RhcmNoLmNvbTo4MA..&hl=zh-CN&v=r20170925162623&size=normal&cb=g9r28x3ipc5b"
+1506672921831	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1506672921836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cDovL25vc3RhcmNoLmNvbTo4MA..&hl=zh-CN&v=r20170925162623&size=normal&cb=g9r28x3ipc5b"
+1506672921900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#7r3xwby16e2l"
+1506672921902	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#7r3xwby16e2l"
+1506672921903	Marionette	DEBUG	Received DOM event "pageshow" for "http://nostarch.com/"
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506673096900	Marionette	DEBUG	loaded listener.js
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1506677580253	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.nostarch.com/catalog/python"
+1506677581021	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.nostarch.com/catalog/python"
+1506677581021	Marionette	DEBUG	Received DOM event "unload" for "https://www.nostarch.com/catalog/python"
+JavaScript error: https://www.nostarch.com/cdn-cgi/scripts/cf.common.js, line 35: TypeError: $ is not a function
+1506677581873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.nostarch.com/catalog/python"
+1506677585988	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cHM6Ly93d3cubm9zdGFyY2guY29tOjQ0Mw..&hl=zh-CN&v=r20170925162623&size=normal&cb=uus7e26aoo5u"
+1506677586291	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967321"
+1506677586298	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cHM6Ly93d3cubm9zdGFyY2guY29tOjQ0Mw..&hl=zh-CN&v=r20170925162623&size=normal&cb=uus7e26aoo5u"
+1506677586662	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#q1km83pfdgvh"
+1506677586669	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#q1km83pfdgvh"
+1506677586671	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.nostarch.com/catalog/python"
+1506677593107	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.nostarch.com/catalog/python"
+1506677593579	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.nostarch.com/catalog/python"
+1506677593580	Marionette	DEBUG	Received DOM event "unload" for "https://www.nostarch.com/catalog/python"
+1506677594425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.nostarch.com/"
+1506677594449	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967318"
+1506677594450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967320"
+1506677594900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cHM6Ly93d3cubm9zdGFyY2guY29tOjQ0Mw..&hl=zh-CN&v=r20170925162623&size=normal&cb=ywfee5a414yg"
+1506677594981	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/anchor?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0&co=aHR0cHM6Ly93d3cubm9zdGFyY2guY29tOjQ0Mw..&hl=zh-CN&v=r20170925162623&size=normal&cb=ywfee5a414yg"
+1506677594981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967329"
+1506677595248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#6jdkyyh1rv1d"
+1506677595250	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/recaptcha/api2/bframe?hl=zh-CN&v=r20170925162623&k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0#6jdkyyh1rv1d"
+[Parent 1380] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1506677597033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.nostarch.com/"
+1506677619731	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1507455441249	geckodriver	INFO	geckodriver 0.19.0
+1507455441273	geckodriver	INFO	Listening on 127.0.0.1:14118
+1507455443364	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.7H4pJznycdJT"
+1507455491924	geckodriver	INFO	geckodriver 0.19.0
+1507455491948	geckodriver	INFO	Listening on 127.0.0.1:14181
+1507455494010	mozrunner::runner	INFO	Running command: "E:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\gaojz\\AppData\\Local\\Temp\\rust_mozprofile.nctrZfhHSXRQ"
+1507455494374	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///E:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507455495045	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507455498142	Marionette	INFO	Listening on port 14188
+1507455499388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507455499444	Marionette	DEBUG	Register listener.js for window 4294967297
+1507455518317	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507455520696	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507455520696	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507455522871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://gabrielecirulli.github.io/2048/"
+1507455524302	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1507455527474	Marionette	DEBUG	Received DOM event "pageshow" for "https://gabrielecirulli.github.io/2048/"
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: this.win is null
+Unable to read VR Path Registry from C:\Users\gaojz\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 12620] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
