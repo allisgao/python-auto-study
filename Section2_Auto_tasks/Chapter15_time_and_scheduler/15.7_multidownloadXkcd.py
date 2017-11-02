@@ -21,7 +21,7 @@ def downloadXkcd(startComic, endComic):
             comicUrl = comicElem[0].get('src')
             # Download the image.
             print('Downloading image %s...' % (comicUrl))
-            res = requests.get(comicUrl)
+            res = requests.get('http:' + comicUrl)
             res.raise_for_status()
 
             # Save the iamge to ./xkcd
@@ -40,11 +40,6 @@ for i in range(0, 1400, 100):
 for downloadThread in downloadThreads:
     downloadThread.join()
 print('Down.')
-
-
-
-
-
 
 
 
