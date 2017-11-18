@@ -55,10 +55,6 @@ for filename in os.listdir('.'):
     # Save changes.
     im.save(os.path.join('withLogo', filename))
 
-<<<<<<< HEAD
+
 im.close()
 logoIm.close()
-=======
-im.close
-logoIm.close
->>>>>>> f0214d8ada1b7fbba18c6f59981b206448fa6cb5
